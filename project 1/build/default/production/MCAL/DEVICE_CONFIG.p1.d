@@ -1,3 +1,0 @@
-build/default/production/MCAL/DEVICE_CONFIG.p1:  \
-MCAL/DEVICE_CONFIG.c  \
-MCAL/DEVICE_CONFIG.h 
