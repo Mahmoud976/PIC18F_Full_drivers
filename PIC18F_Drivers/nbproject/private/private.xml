@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/G:/concol/Embedded%20MPLAB%20PIC%2018/project3.X/MCAL/Interrupt/External_Interrupt.h</file>
-            <file>file:/G:/concol/Embedded%20MPLAB%20PIC%2018/project3.X/MCAL/Interrupt/Internal_Interrupt.h</file>
-            <file>file:/G:/concol/Embedded%20MPLAB%20PIC%2018/project3.X/MCAL/Interrupt/Interrupt_cfg.h</file>
-            <file>file:/G:/concol/Embedded%20MPLAB%20PIC%2018/project3.X/MCAL/Interrupt/Interrupt_Manager.h</file>
-            <file>file:/G:/concol/Embedded%20MPLAB%20PIC%2018/project3.X/MCAL/Timer/Timer0/timer0.h</file>
-            <file>file:/G:/concol/Embedded%20MPLAB%20PIC%2018/project3.X/MCAL/Interrupt/Interrupt_Manager.c</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

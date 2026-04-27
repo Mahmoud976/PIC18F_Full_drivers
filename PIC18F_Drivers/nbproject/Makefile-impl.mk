@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=project3.X
+PROJECTNAME=Record_203
 
 # Active Configuration
 DEFAULTCONF=default
