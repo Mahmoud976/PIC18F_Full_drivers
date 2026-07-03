@@ -1,6 +1,6 @@
 ﻿# PIC18F Custom Bare-Metal Drivers Framework
 
-[![Release](https://img.shields.io/github/v/release/Mahmoud976/Custom-RTOS)](https://github.com/Mahmoud976/Custom-RTOS/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/github/v/release/Mahmoud976/Custom-RTOS)](https://github.com/Mahmoud976/PIC18F_Full_drivers/releases/tag/v1.0.0)
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -97,9 +97,9 @@ This codebase is distributed under the **MIT License**. Check the [LICENSE](LICE
 
 
 
-# Author
-
-Mahmoud Saleh
-
-Embedded Systems Engineer
-
+## 👨‍💻 Author
+**Mahmoud Saleh**
+* Embedded Software Engineer
+* [GitHub Profile](https://github.com/Mahmoud976)
+* [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-m-saleh/)
+---
